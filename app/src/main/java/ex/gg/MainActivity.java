@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //master
 
         //sub
+
+        //master->childs-0
     }
 }
